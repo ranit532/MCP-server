@@ -1,0 +1,6 @@
+This is an example file resource for the MCP server.
+You can read this file using the MCP resource API.
+
+The MCP server provides access to various resources and tools
+that can be used by AI assistants and other clients.
+
